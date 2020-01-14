@@ -1,0 +1,638 @@
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.WebUI.dll.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.WebUI.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.WebUI.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\EntityFramework.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Moq.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Ninject.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Owin.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.Domain.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\WebActivator.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\WebGrease.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.Domain.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.Domain.dll.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.dll.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Moq.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Ninject.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Ninject.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\EntityFramework.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CopyComplete
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.WebUI\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ApplicationInsights.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.WebUI.dll.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.WebUI.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.WebUI.pdb
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\csc.exe
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\csi.exe
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\EntityFramework.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Moq.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Ninject.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Owin.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.Domain.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\WebActivator.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\WebGrease.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.Domain.pdb
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.Domain.dll.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.pdb
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.dll.config
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Moq.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Ninject.pdb
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Ninject.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\EntityFramework.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CopyComplete
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.dll
+C:\Users\User\Desktop\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ApplicationInsights.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.WebUI.dll.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.WebUI.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.WebUI.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\csc.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\csc.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\csc.rsp
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\csi.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\csi.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\csi.rsp
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.AppContext.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Console.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.IO.Compression.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Claims.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.ValueTuple.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\vbc.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\vbc.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\vbc.rsp
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Antlr3.Runtime.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\EntityFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\EntityFramework.SqlServer.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.Web.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Moq.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Newtonsoft.Json.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Ninject.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Owin.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Helpers.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Mvc.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Optimization.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Razor.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.WebPages.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Razor.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.Domain.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\WebActivator.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\WebGrease.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.Domain.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.Domain.dll.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\TourStore.UnitTests.dll.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Moq.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Ninject.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Ninject.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Ninject.Web.Common.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Helpers.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Mvc.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Optimization.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.Razor.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.WebPages.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Web.WebPages.Razor.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Newtonsoft.Json.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Antlr3.Runtime.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\EntityFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\EntityFramework.SqlServer.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.AI.Web.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.Optimization.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\EntityFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csprojAssemblyReference.cache
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CoreCompileInputs.cache
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CopyComplete
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\obj\Debug\TourStore.WebUI.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ApplicationInsights.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\TourStore.WebUI.dll.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\TourStore.WebUI.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\TourStore.WebUI.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\csc.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\csc.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\csc.rsp
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\csi.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\csi.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\csi.rsp
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.AppContext.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Console.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.IO.Compression.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.Claims.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.ValueTuple.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\vbc.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\vbc.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\vbc.rsp
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Antlr3.Runtime.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\EntityFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\EntityFramework.SqlServer.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.Web.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Moq.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Newtonsoft.Json.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Ninject.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Ninject.Web.Common.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Owin.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Helpers.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Mvc.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Optimization.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Razor.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.WebPages.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.WebPages.Razor.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\WebActivator.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\WebGrease.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Moq.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Ninject.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Ninject.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Ninject.Web.Common.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Ninject.Web.Common.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Helpers.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Mvc.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Optimization.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.Razor.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.WebPages.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Web.WebPages.Razor.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Newtonsoft.Json.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Antlr3.Runtime.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\EntityFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\EntityFramework.SqlServer.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.AI.Web.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.Optimization.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.WebPages.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\EntityFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Debug\TourStore.WebUI.csprojAssemblyReference.cache
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CoreCompileInputs.cache
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Debug\TourStore.WebUI.csproj.CopyComplete
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Debug\TourStore.WebUI.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Debug\TourStore.WebUI.pdb

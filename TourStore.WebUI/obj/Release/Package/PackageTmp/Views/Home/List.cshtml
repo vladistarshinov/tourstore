@@ -1,0 +1,31 @@
+﻿@using TourStore.WebUI.Models
+@using TourStore.WebUI.HtmlHelpers
+@model ToursListViewModel
+
+@{
+    ViewBag.Title = "Список туров";
+    ViewBag.Description = "Представлены туры по различным категориям: эконом, полулюкс, бизнес и экстра классы";
+    ViewBag.Keywords = "Эконом бизнес экстра полулюкс";
+}
+
+<div class="visible-xs">
+    @Html.Action("Menu", "Nav", new { horizontalNav = true })
+</div>
+
+<div class="row panel">
+    <div id="categories" class="col-sm-3 hidden-xs">
+        <hr />
+        @Html.Action("Menu", "Nav")
+        @Html.Action("Summary", "Cart")
+    </div>
+    <div class="col-xs-12 col-sm-8">
+        @foreach (var p in @Model.Tours)
+        {
+            @Html.Partial("TourSummary", p)
+        }
+    </div>
+</div>
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List",
+        new { page = x, category = Model.CurrentCategory }))
+</div>

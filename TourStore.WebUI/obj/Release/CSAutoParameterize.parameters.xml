@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EFDbContext-Web.config Connection String" description="EFDbContext Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Server=tcp:tourstoreapp.database.windows.net,1433;Initial Catalog=EFDbContext;Persist Security Info=False;User ID=user@tourstoreapp.database.windows.net;Password=12345!qwert;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="Q:\\Учеба\ \(саморазвитие\)\\Магистратура\\Учеба\ 3\.0\\Разработка\ и\ сопровождение\ веб-систем\\лабы\\TourStore_fin\\TourStore\.WebUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EFDbContext']/@connectionString" />
+  </parameter>
+</parameters>

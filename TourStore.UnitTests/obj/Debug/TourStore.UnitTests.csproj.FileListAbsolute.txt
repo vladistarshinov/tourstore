@@ -1,0 +1,224 @@
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll.config
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.WebUI.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\WebActivator.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll.config
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.WebUI.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\TourStore.WebUI.dll.config
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CopyComplete
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.pdb
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\source\repos\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll.config
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.pdb
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.WebUI.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\WebActivator.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.pdb
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll.config
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.WebUI.pdb
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\TourStore.WebUI.dll.config
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CopyComplete
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.dll
+C:\Users\User\Desktop\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\WebActivator.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll.config
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Cемену\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CopyComplete
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\TourStore.UnitTests.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Moq.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\WebActivator.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\TourStore.Domain.dll.config
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Moq.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.Razor.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\EntityFramework.xml
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\bin\Debug\ru\EntityFramework.resources.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csprojAssemblyReference.cache
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CoreCompileInputs.cache
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.csproj.CopyComplete
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.dll
+Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\обучение\TourStore\TourStore.UnitTests\obj\Debug\TourStore.UnitTests.pdb

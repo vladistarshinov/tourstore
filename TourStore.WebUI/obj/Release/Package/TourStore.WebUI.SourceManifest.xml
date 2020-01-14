@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="Q:\Учеба (саморазвитие)\Магистратура\Учеба 3.0\Разработка и сопровождение веб-систем\лабы\TourStore_fin\TourStore.WebUI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

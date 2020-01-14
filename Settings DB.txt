@@ -1,0 +1,4 @@
+В этой версии 2 базы данных. Для развертывания в ажуре убрал авторизацию, так как выдает ошибку ,что не видет 2 БД. 
+Создаем БД в ажуре, в группе элементов называет Web App сайта.
+Для связки БД с прогой вводим в Web.Config
+Server=tcp:tourstoreapp.database.windows.net,1433;Initial Catalog=EFDbContext;Persist Security Info=False;User ID=user.tourstoreapp.database.windows.net;Password=12345!qwert;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
